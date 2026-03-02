@@ -1,6 +1,6 @@
 # 💻 Portfólio Pessoal - João Paulo Muniz Mesquita
 
-Este projeto foi desenvolvido como requisito para a disciplina de **Desenvolvimento de Plataformas Web** na **UNIFOR**. O foco principal foi a criação de uma interface de alto impacto visual utilizando apenas tecnologias fundamentais de front-end.
+Este projeto foi desenvolvido como requisito para a disciplina de **Desenvolvimento de Plataformas Web** na **UNIFOR**. O foco principal foi a criação de uma interface com um impacto visual utilizando apenas tecnologias fundamentais de front-end.
 
 ## 🎨 Design & UI/UX
 - **Tema Dracula**: Paleta de cores focada em produtividade e estética developer.
